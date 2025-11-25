@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:12-11-2025
-## Register Number:212224040183
-## Name:MANIKANDAN.M
+# Date:25-11-25
+## Register Number:212224230312
+## Name:YOKESH H
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
